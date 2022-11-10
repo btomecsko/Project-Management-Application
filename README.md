@@ -15,7 +15,7 @@ The Homepage has the following features:
 
 - A Sign in page where you can input your username and password and submit to go to the next page.
 
-![Home](ProjManAssets/ProjManHome.PNG)
+![Home](ProjManAssets/ProjManHome.png)
 
 ### Announcements Page:
 
@@ -23,7 +23,7 @@ The Homepage has the following features:
 
 
 
-![Announcements](ProjManAssets/ProjManAnnouncements.PNG)
+![Announcements](ProjManAssets/ProjManAnnouncements.png)
 
 ### Side Bar:
 
@@ -31,7 +31,7 @@ The Homepage has the following features:
 
 
 
-![SideNav](ProjManAssets/ProjManAnnouncementsSideNav.PNG)
+![SideNav](ProjManAssets/ProjManAnnouncementsSideNav.png)
 
 ### Projects Page:
 
@@ -40,7 +40,7 @@ The Homepage has the following features:
 
 
 
-![Projects](ProjManAssets/ProjManProjects.PNG)
+![Projects](ProjManAssets/ProjManProjects.png)
 
 ### Project Page:
 
@@ -49,7 +49,7 @@ The Homepage has the following features:
 
 
 
-![Projects](ProjManAssets/ProjManProject.PNG)
+![Projects](ProjManAssets/ProjManProject.png)
 
 ---
 
