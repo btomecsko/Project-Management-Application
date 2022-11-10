@@ -1,8 +1,55 @@
-Assessment 3
-===============================
-# Overview
+# Project Management Applicaton 
+This is a full-stack application that allows users to sign in and view the announcements for the company they work for as well as the projects specific to the team they are a part of. The company and team information is stored in the backend data-base and endpoints allow the projects to be accessed by the users team data and the announcements to accessed by the users company data. 
 
-For this assessment students will work in a group(s) to write a full stack application. This will incorporate everything we learned in the classroom. Students will be given tasks across the full stack to ensure everyone works on all pieces of the application. The application will be managed in a simulated kan ban agile style and will make use of Github issues and the project board. During the first day of the assessment students will go through the ERD and wireframe that the stakeholders had a account lead put together for you. From these each team will need to create their own endpoint documentation and add it to the wiki. Once that's done each team should meet with their lead and plan out the project by creating issues and assigning each member their first 2-3 tasks. The target for the first week is to finish version 1.0 of their application and go through a demo of progress with their lead that morning. The target for the second week is to have a functional prototype to present to the full FT team and others from Cook Systems internal staff. All teams will have a cut-off time of 12pm CT the last Thursday of class. At that point they should begin putting together their presentation and practice it with their lead a minimum of 2 times that afternoon. The final Friday all teams will present that applications.
+Project Prompt:
+
+## Technology
+
+- Built with React.js, JSX, HTML, CSS, Expressjs, Node.js, Git, Java, SpringBoot, JPA, PostgreSQL, PGAdmin, Postman, Eclipse, Maven
+
+
+## Screenshots 
+### Home:
+
+The Homepage has the following features:
+
+- A Sign in page where you can input your username and password and submit to go to the next page.
+
+![Home](ProjManAssets/ProjManHome.PNG)
+
+### Announcements Page:
+
+- The list of announcements specific to the company of the user.
+
+
+
+![Announcements](ProjManAssets/ProjManAnnouncements.PNG)
+
+### Side Bar:
+
+- If you click on the hamburger on the top right corner it will deploy the side navigation menu.
+
+
+
+![SideNav](ProjManAssets/ProjManAnnouncementsSideNav.PNG)
+
+### Projects Page:
+
+- The user can access the specific projects that are assigned to their team.
+- If the user clicks on the Review button they can access the more detailed view of that particular project.
+
+
+
+![Projects](ProjManAssets/ProjManProjects.PNG)
+
+### Project Page:
+
+- The user can view the more detailed verson of the project they've clicked on.
+- The back button returns them to the projects page.
+
+
+
+![Projects](ProjManAssets/ProjManProject.PNG)
 
 ---
 
@@ -11,9 +58,4 @@ For this assessment students will work in a group(s) to write a full stack appli
 ![Final ERD](https://user-images.githubusercontent.com/32781877/149406364-2d2fe6a6-f7c9-419c-80e7-7be1a2596f85.png)
 
 
----
-
-## Wireframe
-
-[Figma Wireframe Link](https://www.figma.com/file/n78G77ALKSYUKeOhkSdJLf/Final-Prototype-V3?node-id=0%3A1)
 
