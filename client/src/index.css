@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.logo{
+    align-self: center;
+    width: 10rem;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    padding: 1rem;
+    border-radius: 50%;
+    background-color: #0d3a59;
+    background-size: auto;
+    margin: 15px;
+}
+
+.navLogo{
+    width: 3rem;
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    background: #214963;
+}
+
+
+.form-label{
+  color: rgba(27, 160, 152, 0.75);
+}
+
+
+.navbar {
+  border: 2px solid;
+  border-top: 0;
+  border-color: #DEB992;
+}
+
+.login {
+  position: relative;
+  background-color: #051622;
+  height: 425px;
+  width: 500px;
+  border: 5px solid;
+  border-color: #DEB992;
+  box-shadow: 4px 4px 10px 5px rgba(203, 203, 203, 0.49);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto; 
+  float: none; 
+  margin-top: 100px;
+}
+
+.announcements{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.header {
+  text-align: center;
+  color: #1BA098;
+  margin: 75px auto;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  background-color: inherit;
+  
+}
+
+.card-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1BA098;
+  font-family: Inter, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  padding-bottom: 2vh;
+}
+.align{
+  margin-left: 20vh;
+  padding-left: 30vh;
+}
+.announceCard{
+  border-radius: 8px;
+  width: 50vw;
+  background: #0b2d45;
+  z-index: -1;
+}
+
+.projectList{
+  display: flex;
+  align-items: center;
+  width: 70%;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  padding-block: 2rem;
+}
+
+.projectCard{
+  width: 100vh;
+  margin-left: 50vh;
+  margin-top: 15vh;
+  
+}
+.singleCard{
+  margin-bottom: 5vh;
+}
+
+ul{
+  list-style: none;
+}
